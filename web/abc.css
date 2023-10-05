@@ -1,0 +1,41 @@
+body
+{
+	background-image:url('bg.png');
+}
+
+#mymenu
+{
+background-color:rgba(0,0,0,0.5);
+color:white;
+text-align:right;
+}
+#mymenu ul li
+{
+display:inline-block;
+padding:12px;
+}
+#data
+{
+margin-top:120px;
+}
+table
+{
+color:white;
+background-color:rgba(0,0,0,0.5);
+box-shadow:20px 20px 20px white;
+}
+.t1
+{
+border-radius:30px;
+}
+.B
+{
+width:80px;
+height:40px;
+background:linear-gradient(to right,red,black);
+color:white;
+}
+b:hover
+{
+background:linear-gradient(to right,black,red);
+}
